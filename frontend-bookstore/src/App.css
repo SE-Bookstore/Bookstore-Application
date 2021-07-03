@@ -13,6 +13,16 @@
   }
 }
 
+#signInBox {
+  background-color: #61dafb;
+  color:#282c34;
+  padding:20px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
